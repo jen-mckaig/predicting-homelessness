@@ -1,6 +1,6 @@
 # Predicting Homeless Population Sizes 
 
-Homelessness in America is a deepening crisis that is inextricably linked to poverty and systemic injustice. The current system to prevent and to house homeless individuals is inadequate and ill-equipped. In this project, I gathered publicly available data to build a predictive model that provides insight into homelessness population growth.
+Homelessness in America is a deepening crisis that is inextricably linked to poverty and systemic injustice. The current system to prevent and to house homeless individuals is inadequate and should be reconsidered. In this project, I gathered publicly available data to build a predictive model that provides insight into homelessness population growth.
 
 <p align="center"> <a href="http://www.youtube.com/watch?feature=player_embedded&v=7f9dqQBYjcA" target="_blank"><img src="http://img.youtube.com/vi/7f9dqQBYjcA/0.jpg" 
 alt="myimage" width="500" height="380" border="10" /></a> </p> 
